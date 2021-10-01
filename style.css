@@ -145,3 +145,12 @@ p {
     font-size: 0.8rem;
   }
 }
+
+
+.attribution {
+	background-color: #fff;
+	position: fixed;
+	bottom: 0;
+	padding: .5em 1em;
+	font-family: var(--font-primary);
+}
